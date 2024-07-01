@@ -73,9 +73,13 @@ Hi, I'm Walter Vilca
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=WalterVVilcaM&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterVVilcaM&theme=react&layout=compact" />
 </p>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -83,8 +87,6 @@ Hi, I'm Walter Vilca
     <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
   </ul>
 </div>
-
-
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
