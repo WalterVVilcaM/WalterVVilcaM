@@ -25,16 +25,19 @@ Hi, I'm Walter Vilca
 
 <hr>
 <!--Intro start-->
-<pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
-</pre>
+<h3 align="center">A passionate Student of sofware developer from Perú <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
+
+- 🔭 I’m currently working on my **Python Course**
+
+- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+
+- 👯 I’m looking to collaborate on **front-end and back-end projects**
+
+- 📫 How to reach me: **brantlauro@gmail.com**
+
+- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+
+<h3 align="center">Connect with me:</h3>
 <!--Intro end-->
 <hr>
 
