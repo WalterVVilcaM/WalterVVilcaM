@@ -1,7 +1,7 @@
 
-<p align="center">
+<h1 align="center" style="border-bottom: none">
 Have an awesome day!, I'm Walter Vilca
-</p>
+</h1>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
