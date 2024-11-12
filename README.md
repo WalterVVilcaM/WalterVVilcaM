@@ -1,5 +1,5 @@
 
-<h1 align="center">
+<h1 align="center" style="border-bottom: none;">
 Have an awesome day!, I'm Walter Vilca
 </h1>
 
