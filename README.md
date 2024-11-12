@@ -26,7 +26,6 @@ Hi, I'm Walter Vilca
 
 - ⚡ What I like to do: **I really enojy reading, listening to music, and coding **
 
-<h3 align="center">Connect with me:</h3>
 <!--Intro end-->
 <hr>
 
