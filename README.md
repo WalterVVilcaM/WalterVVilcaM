@@ -4,9 +4,6 @@ Have an awesome day!, I'm Walter Vilca
 <!--horizontal divider(gradiant)-->
 </h1>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--horizontal divider(gradiant)-->
-<!--horizontal divider(gradiant)-->
 
 <p align="center">
 	<a>
