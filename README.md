@@ -5,6 +5,9 @@ Have an awesome day!, I'm Walter Vilca
 </h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--horizontal divider(gradiant)-->
+<!--horizontal divider(gradiant)-->
+
 <p align="center">
 	<a>
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45">
