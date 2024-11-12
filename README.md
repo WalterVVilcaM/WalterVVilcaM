@@ -1,9 +1,10 @@
 
 <h1 align="center">
 Have an awesome day!, I'm Walter Vilca
-<!--horizontal divider(gradiant)-->
 </h1>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
 	<a>
