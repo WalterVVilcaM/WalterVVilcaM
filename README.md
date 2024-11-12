@@ -12,25 +12,19 @@ Hi, I'm Walter Vilca
 	</a>
 </p>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <hr>
 <!--Intro start-->
-<h3 align="center">A passionate Student of sofware developer from Perú <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
+<h3 align="center">I am passionate about learning software development.<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
 
 - 🔭 I’m currently working on my **Student Projets**
 
-- 🌱 I’m currently learning **Kotlin, HTML5 and CSS3**
+- 🌱 I’m currently learning **Java, Springboot, SQlite, HTML5 and CSS3**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
 - 📫 How to reach me: **waltervvilcam@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, listen to music and travel...and coding of course**
+- ⚡ What I like to do: **I really enojy reading, listening to music, and coding **
 
 <h3 align="center">Connect with me:</h3>
 <!--Intro end-->
@@ -41,9 +35,8 @@ Hi, I'm Walter Vilca
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-vidal-vilca-mamani-303708271/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sky_boi.1/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waltervvilcam@gmail.com)
-[![image](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/VidalVilca3082)
+[![image](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VidalVilca3082)
   
 </div>
 
